@@ -25,5 +25,6 @@ public class HelloWorld
 		System.out.println("Hello! It's Ali!");
 >>>>>>> refs/remotes/origin/master
 >>>>>>> refs/remotes/origin/master
+	System.out.println("Hello World, Siwen");
 	}
 }
