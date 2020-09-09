@@ -24,5 +24,6 @@ public class HelloWorld
 		System.out.println("Hello world, this is Sarah! :-)");
 		System.out.println("Hello! It's Ali!");
 		System.out.println("Erin was here! ");
+		System.out.println("Hello world! - Brendan K.");
 	}
 }
