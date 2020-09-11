@@ -4,9 +4,12 @@ public class AssignmentExample
 {
 	public static void main(String[] args)
 	{
-		int x = 4;
+		float x=.5f;
+		double y=.5;
 		
-		if( x==4 )
-			System.out.println("Yes");
+		if ( x== y )
+			System.out.println("YES");
+		else
+			System.out.println("No");
 	}
 }
