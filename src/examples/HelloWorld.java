@@ -52,6 +52,6 @@ public class HelloWorld
 		System.out.println("Hellooooooooo");
 		System.out.println("From Anthony");
 		
-		System.outprintln("This is Juan, Testing from Eclipse. ");
+		System.out.println("This is Juan, Testing from Eclipse. ");
 	}
 }
